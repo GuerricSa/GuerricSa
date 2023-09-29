@@ -3,7 +3,7 @@
 
 <h3>Ici, tu trouveras tout mes projets, et même les exercices que j'ai pu faire pendant ma formation</h3>
 
-👀 Si tu préfères voir le rendu plutôt que les backstages, mon portfolio est la : [en cours]
+👀 Si tu préfères voir le rendu plutôt que les backstages, mon portfolio est là : [en cours]
 
 🌱 Je suis en train d'apprendre le React, les projets arrivent bientôt !!
 
