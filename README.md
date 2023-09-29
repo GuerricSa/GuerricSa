@@ -12,7 +12,25 @@
 🕘 Avant, j'ai fait de la finance : banquier et contrôleur de gestion.
 
 💬 Si tu veux me contacter, envoie moi un message sur [LinkedIn](www.linkedin.com/in/guerric-sant).</br>
-📫 Sinon, u peux me joindre par mail à l'adresse : **guerric.sant@gmail.com**
+📫 Sinon, tu peux me joindre par mail à l'adresse : **guerric.sant@gmail.com**
+
+<h5>Les languages et outils que je connais :</h5>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="[https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg)" alt="Logo React">
+<img src="[https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)" alt="Logo JavaScript">
+<img src="[https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg)" alt="Logo CSS3">
+<img src="[https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg)" alt="Logo HTML5">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails">
 
 
 <!--
