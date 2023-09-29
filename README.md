@@ -16,11 +16,10 @@
 
 <h5>Les languages et outils que je connais :</h5>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Logo Ruby on Rails" width="40" height="40">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg]" alt="Logo React" width="40" height="40">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg]" alt="Logo JavaScript" width="40" height="40">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css-original-wordmark.svg]" alt="Logo CSS3" width="40" height="40">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/html5/html-original-wordmark.svg]" alt="Logo HTML5" width="40" height="40">
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Logo React" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original-wordmark.svg" alt="Logo JavaScript" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css-original-wordmark.svg" alt="Logo CSS3" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html-original-wordmark.svg" alt="Logo HTML5" width="40" height="40">
 
 
 <!--
