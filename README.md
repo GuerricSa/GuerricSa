@@ -7,7 +7,7 @@
 
 🌱 Je suis en train d'apprendre le React, les projets arrivent bientôt !!
 
-🎓 Je suis diplômé du Wagon. Une formation de développeur web fullstack que j'ai faite pour me ré-orienter.$
+🎓 Je suis diplômé du Wagon. Une formation de développeur web fullstack que j'ai faite pour me ré-orienter.
 
 🕘 Avant, j'ai fait de la finance : banquier et contrôleur de gestion.
 
